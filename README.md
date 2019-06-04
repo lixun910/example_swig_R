@@ -2,4 +2,4 @@
 
 by Xun Li
 
-Please read the writeup here: [https://lixun910.github.io/my_blog/c++/swig/r/2019/05/23/GeoDa-Library.html](https://lixun910.github.io/my_blog/c++/swig/r/2019/05/23/GeoDa-Library.html)
+Please read the writeup here: [https://lixun910.github.io/my_blog/c++/swig/r/2019/05/23/Create-R-C++-library-use-swig.html](https://lixun910.github.io/my_blog/c++/swig/r/2019/05/23/Create-R-C++-library-use-swig.html)
