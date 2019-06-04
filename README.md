@@ -18,6 +18,7 @@ Your C++ code:
 
 {% gist aa6e3b6af11c6fe1351857b85494f5c1 library.h%}
 {% gist aa6e3b6af11c6fe1351857b85494f5c1 library.cpp%}
+<script src="https://gist.github.com/lixun910/aa6e3b6af11c6fe1351857b85494f5c1.js"></script>
 
 ## 1. Building a R Interface using SWIG
 
