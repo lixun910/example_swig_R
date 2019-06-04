@@ -1,0 +1,11 @@
+Package: libABC
+Type: Package
+Title: Test wrapper R library using SIWG
+Version: 0.0-0
+Date: 2019-06-03
+Author: Xun Li <lixun910@gmail.com>
+Maintainer: Xun Li <lixun910@gmail.com>
+Description: A package that demonstrates how to wrap C++ code using SWIG
+License: GPL (>= 2)
+Depends: R (>= 3.6)
+Collate: libABC.R
